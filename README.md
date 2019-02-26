@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+HLEB VINNIKAU
+HTML CSS Basics: https://www.codecademy.com/users/Gleb-Vinnikov/achievements
